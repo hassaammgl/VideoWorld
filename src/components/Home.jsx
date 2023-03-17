@@ -25,7 +25,12 @@ const Home = () => {
             direction={['column', 'row']}
           >
             <img src={img5} h={['40', '400']} />
-            <Text letterSpacing={'widest'} lineHeight={'190%'} p={['4', '16']} textAlign={'center'}>
+            <Text
+              letterSpacing={'widest'}
+              lineHeight={'190%'}
+              p={['4', '16']}
+              textAlign={'center'}
+            >
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius est
               dolorum inventore sit molestias expedita minima excepturi velit
               facere architecto, corporis cum itaque tenetur consequatur totam
